@@ -113,7 +113,6 @@ header nav ul li a {
     margin-bottom: 10px;
     text-align: center;
 }
-
 .benefit img {
     display: block;
     margin: 10px auto;
@@ -122,14 +121,14 @@ header nav ul li a {
 /*BENEFITS STYLES END*/
 
 /*FOOTER STYLES START*/
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
 /*FOOTER STYLES END*/
