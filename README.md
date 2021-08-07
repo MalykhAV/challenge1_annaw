@@ -1,9 +1,9 @@
 # Horiseon - Marketing agency
 ## Purpose
 A webpage that offers marketing services:
--Search engine optimisation
--Online reputation management
--Social media marketing
+* Search engine optimisation
+* Online reputation management
+* Social media marketing
 
 ## Built With
 * HTML
